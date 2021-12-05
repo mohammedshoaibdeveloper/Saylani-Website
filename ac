@@ -1,0 +1,48 @@
+<div class="projects py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <h3 class="text-primary">MISSION AND UPCOMING PROJECTS</h3>
+        <span class="seprator"></span>
+        <br>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="projects bg-light py-4">
+            <img src="https://www.saylaniwelfare.com/public_html/images/saylani/icons/Hepatitis.png" alt="">
+            <span>HEPATITIS</span>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="projects bg-light py-4">
+              <img src="https://www.saylaniwelfare.com/public_html/images/saylani/icons/housing.png" alt="">
+              <span>HOUSING SOCIETY</span>
+          </div>
+         </div>
+        </div>
+       <br>
+       <DIV class="row">
+              <div class="col-md-6">
+                <div class="project bg-light py-4">
+                  <img src="https://www.saylaniwelfare.com/public_html/images/saylani/icons/IT.png" alt="">
+                   <span>IT LETRACY</span>
+                </div>
+              </div>
+
+
+
+              <div class="col-md-6">
+                <div class="project bg-light py-4">
+                  <img src="https://www.saylaniwelfare.com/public_html/images/saylani/icons/tharparkar.png" alt="">
+                   <span>THARPARKAR</span>
+                </div>
+              </div>
+       </DIV>
+
+
+       <div class="col-md-4 social distancing"></div>
+        <h3 class="text-primary">Upcoming Events</h3>
+        <span class="seprator"></span>
+      </div>
+    </div>
+  </div>
+</div>
